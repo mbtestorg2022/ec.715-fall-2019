@@ -49,14 +49,93 @@ Bartram, Jamie. _Routledge Handbook of Water and Health_. Routledge, 2018. ISBN
 Grading
 -------
 
-| Topics | Percentages |
-| --- | --- |
-| {{< td-colspan 2 >}}**Participation**{{< /td-colspan >}} ||
-| In-Class Participation | 20% |
-| Reading Discussions and Forum Comments | 10% |
-| WASH Tutorial | 15% |
-| {{< td-colspan 2 >}}**Term Project**{{< /td-colspan >}} ||
-| First Deliverable | (not graded) |
-| Second Deliverable | 10% |
-| Final Project | 35% |
-| Final Presentation | 10%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+Percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Participation**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Reading Discussions and Forum Comments
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+WASH Tutorial
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Term Project**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+First Deliverable
+{{< tdclose >}}
+{{< tdopen >}}
+(not graded)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Second Deliverable
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Project
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+10% 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
