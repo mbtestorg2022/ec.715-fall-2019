@@ -9,7 +9,7 @@ Best Practices, Monitoring, and Evaluation
 
 Howard, Guy. _[Water Supply Surveillance: A Reference Manual](https://repository.lboro.ac.uk/articles/Water_supply_surveillance_a_reference_manual/9585146)_. WEDC, Loughborough University, 2002. ISBN: 9781843800040.
 
-World Health Organization. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[GLAAS 2012 report (PDF - 6.5MB)](https://www.un.org/waterforlifedecade/pdf/glaas_report_2012_eng.pdf)." World Health Organization, 2012. 
+World Health Organization. "[GLAAS 2012 report (PDF - 6.5MB)](https://www.un.org/waterforlifedecade/pdf/glaas_report_2012_eng.pdf)." World Health Organization, 2012. 
 
 Centralized Wastewater Treatment and Septic Systems
 ---------------------------------------------------
@@ -22,7 +22,7 @@ McCann, Bill. "The sanity of Ecosan." _Water21_ (April 2005): 23–30.
 
 Mara, Duncan. _Low-Cost Urban Sanitation_. John Wiley & Sons, 1996. ISBN: 9780471961635.
 
-Green, Jennifer, Olivier de Weck, and Pablo Suarez. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Sustainable urban sanitation: Simulating a desludging service in Senegal (PDF)](https://www.pomsmeetings.org/ConfProceedings/025/FullPapers/FullPaper_files/025-1473.pdf)." Proceedings of POMS 23rd Annual Conference, 2011.
+Green, Jennifer, Olivier de Weck, and Pablo Suarez. "[Sustainable urban sanitation: Simulating a desludging service in Senegal (PDF)](https://www.pomsmeetings.org/ConfProceedings/025/FullPapers/FullPaper_files/025-1473.pdf)." Proceedings of POMS 23rd Annual Conference, 2011.
 
 Winblad, U., and M. Simpson-Hébert. _Ecological Sanitation_. Stockholm Environment Institute, 2004. ISBN: 9188714985.
 
@@ -35,7 +35,7 @@ Harleman, Donald, and Susan Murcott. "Rebuttal by Harleman and Murcott to Parker
 China's Water Resources and Drinking Water Challenges
 -----------------------------------------------------
 
-Shalizi, Zmarak. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Addressing China's growing water shortages and associated social and environmental consequences (PDF)](http://documents.worldbank.org/curated/en/148311468024638196/pdf/wps3895.pdf)." The World Bank, 2006.
+Shalizi, Zmarak. "[Addressing China's growing water shortages and associated social and environmental consequences (PDF)](http://documents.worldbank.org/curated/en/148311468024638196/pdf/wps3895.pdf)." The World Bank, 2006.
 
 Wang, Can, Camilla Dunham Whitehead, et al. "Options for the future: Balancing urban water supply and demand in Beijing." _Water Policy_ 8, no. 2 (2006): 97–110.
 
@@ -57,7 +57,7 @@ World Health Organization. "[WHO global water, sanitation and hygiene: Annual re
 Diffusion of Ideas and Innovations
 ----------------------------------
 
-World Health Organization. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Combating waterborne disease at the household level (PDF - 6.4MB)](https://apps.who.int/iris/bitstream/handle/10665/43621/9789241595223_eng.pdf)." World Health Organization, 2007. 
+World Health Organization. "[Combating waterborne disease at the household level (PDF - 6.4MB)](https://apps.who.int/iris/bitstream/handle/10665/43621/9789241595223_eng.pdf)." World Health Organization, 2007. 
 
 Evidence Base for WASH
 ----------------------
@@ -91,7 +91,7 @@ Nelson, Deborah Imel. "[Health impact assessment of climate change in Bangladesh
 Food-Energy-Water Nexus
 -----------------------
 
-Rogers, Peter. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Water-energy NeXUS: Sustainable urbanization in the Greater Mekong Subregion (PDF)](https://mittalsouthasiainstitute.harvard.edu/wp-content/uploads/2014/03/Peter-Rogers-2012-2.pdf)." In _Proceedings of the Conference of GMS_, pp. 138–147. 2020.
+Rogers, Peter. "[Water-energy NeXUS: Sustainable urbanization in the Greater Mekong Subregion (PDF)](https://mittalsouthasiainstitute.harvard.edu/wp-content/uploads/2014/03/Peter-Rogers-2012-2.pdf)." In _Proceedings of the Conference of GMS_, pp. 138–147. 2020.
 
 Rogers, Peter. "Facing the freshwater crisis." _Scientific American_ 299, no. 2 (2008): 46–53.
 
@@ -125,11 +125,11 @@ Cercone, J, Briceno, R and Concheso, T. "Economic analysis of handwashing in Cen
 Household and Community Water Treatment and Safe Storage
 --------------------------------------------------------
 
-Nath, K. J., Sally Bloomfield, and Martin Jones. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Household water storage, handling and point-of-use treatment (PDF)](http://bvsper.paho.org/share/ETRAS/AyS/bvsacd/cd47/storage/indice.pdf)." A review commissioned by IFH (2006).
+Nath, K. J., Sally Bloomfield, and Martin Jones. "[Household water storage, handling and point-of-use treatment (PDF)](http://bvsper.paho.org/share/ETRAS/AyS/bvsacd/cd47/storage/indice.pdf)." A review commissioned by IFH (2006).
 
 Masters, Gilbert M., and Wendell P. Ela. "Water treatment." In _Introduction to Environmental Engineering and Science_. 3rd edition. Prentice Hall, 1991, pp. 187–310. ISBN: 9780131481930.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Guinea worm cloth filter: Household water treatment and safe storage (HWTS) product and implementation fact sheet (PDF)](https://sswm.info/sites/default/files/reference_attachments/GWEP%202008%20Guinea%20Worm%20Cloth%20Filter.pdf)."  
+"[Guinea worm cloth filter: Household water treatment and safe storage (HWTS) product and implementation fact sheet (PDF)](https://sswm.info/sites/default/files/reference_attachments/GWEP%202008%20Guinea%20Worm%20Cloth%20Filter.pdf)."  
 
 Hunger and Malnutrition
 -----------------------
@@ -145,11 +145,11 @@ International Health Economics
 
 Kristof, N. D. "Let's Start a War, One We Can Win." _The New York Times_ 20 (2007).
 
-Gunther, Isabel, and Gunther Fink. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Water, sanitation, and children's health: Evidence from 172 DHS surveys (PDF)](https://openknowledge.worldbank.org/bitstream/handle/10986/3762/WPS5275.pdf)." The World Bank, 2010.
+Gunther, Isabel, and Gunther Fink. "[Water, sanitation, and children's health: Evidence from 172 DHS surveys (PDF)](https://openknowledge.worldbank.org/bitstream/handle/10986/3762/WPS5275.pdf)." The World Bank, 2010.
 
-Cohen, Jessica, and Pascaline Dupas. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Free distribution or cost-sharing? Evidence from a randomized malaria prevention experiment." _Quarterly Journal of Economics_ 125, no. 1 (2010). 
+Cohen, Jessica, and Pascaline Dupas. "Free distribution or cost-sharing? Evidence from a randomized malaria prevention experiment." _Quarterly Journal of Economics_ 125, no. 1 (2010). 
 
-Hutton, Guy, Laurence Haller, Sanitation Water, and World Health Organization. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Evaluation of the costs and benefits of water and sanitation improvements at the global level (PDF)](https://apps.who.int/iris/bitstream/handle/10665/68568/WHO_SDE_WSH_04.04.pdf)." World Health Organization, 2004. 
+Hutton, Guy, Laurence Haller, Sanitation Water, and World Health Organization. "[Evaluation of the costs and benefits of water and sanitation improvements at the global level (PDF)](https://apps.who.int/iris/bitstream/handle/10665/68568/WHO_SDE_WSH_04.04.pdf)." World Health Organization, 2004. 
 
 Ashraf, Nava, James Berry, and Jesse Shapiro. "[Can higher prices stimulate product use? Evidence from a field experiment in Zambia](https://www.aeaweb.org/articles?id=10.1257/aer.100.5.2383)." _American Economic Review_ 100, no. 5 (2010): 2383–2413. 
 
@@ -158,7 +158,7 @@ International WASH-Health Financing
 
 de Moor, A.P.G., and Peter Calamai. _Subsidizing Unsustainable Development: Undermining the Earth with Public Funds_. Institute for Research on Public Expenditure (IRPE), 1997. ISBN: 9780968184400.
 
-Rogers, Peter, Ramesh Bhatia, and Annette Huber. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Water as a social and economic good: How to put the principle into practice (PDF)](http://dlc.dlib.indiana.edu/dlc/bitstream/handle/10535/4989/TAC2.PDF)." Stockholm: Global Water Partnership, 1998.
+Rogers, Peter, Ramesh Bhatia, and Annette Huber. "[Water as a social and economic good: How to put the principle into practice (PDF)](http://dlc.dlib.indiana.edu/dlc/bitstream/handle/10535/4989/TAC2.PDF)." Stockholm: Global Water Partnership, 1998.
 
 Rogers, Peter, Radhika De Silva, and Ramesh Bhatia. "Water is an economic good: How to use prices to promote equity, efficiency, and sustainability." _Water Policy_ 4, no. 1 (2002): 1–17.
 
@@ -212,9 +212,9 @@ EAWAG, WSSCC. "[Compendium of sanitation systems and technologies](https://www.e
 
 "[Construction of ecological sanitation latrine: Technical handbook](https://www.susana.org/en/knowledge-hub/resources-and-publications/library/details/1498)." WaterAid, 2011.
 
-Kar, Kamal, and Katherine Pasteur. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Subsidy or self-respect? Community led total sanitation. An update on recent developments (PDF - 4.8MB)](https://opendocs.ids.ac.uk/opendocs/bitstream/handle/20.500.12413/2356/wp257_0.pdf)." Institute of Development Studies, 2005. 
+Kar, Kamal, and Katherine Pasteur. "[Subsidy or self-respect? Community led total sanitation. An update on recent developments (PDF - 4.8MB)](https://opendocs.ids.ac.uk/opendocs/bitstream/handle/20.500.12413/2356/wp257_0.pdf)." Institute of Development Studies, 2005. 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[The case for marketing sanitation (PDF)](https://www.wsp.org/sites/wsp/files/publications/af_marketing.pdf)." Water and Sanitation Program, 2004.
+"[The case for marketing sanitation (PDF)](https://www.wsp.org/sites/wsp/files/publications/af_marketing.pdf)." Water and Sanitation Program, 2004.
 
 Tarr, Joel. "Water and wastewater: The origins of the piped society." In _The Compositing Toilet System Book_. Ecowaters Books, 2000. ISBN: 9780966678307.
 
@@ -238,7 +238,7 @@ Starkl, Markus, and Norbert Brunner. "Feasibility versus sustainability in urban
 
 Jaglin, Sylvy. "[The right to water versus cost recovery: Participation, urban water supply, and the poor in sub-Saharan Africa](https://journals.sagepub.com/doi/abs/10.1177/095624780201400119)." _Environment and Urbanization_ 14, no. 1 (2002): 231–245. 
 
-Public Citizen's Water for All Program. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Water Privatization Fiascos: Web site cases on Buenos Aires, Manila, Cochabamba, Atlanta, Jakarta, Nelspruit, and the United Kingdom (PDF)](http://saveobwater.com/Privatization/privatizationfiascos.pdf)." Public Citizen, 2003.
+Public Citizen's Water for All Program. "[Water Privatization Fiascos: Web site cases on Buenos Aires, Manila, Cochabamba, Atlanta, Jakarta, Nelspruit, and the United Kingdom (PDF)](http://saveobwater.com/Privatization/privatizationfiascos.pdf)." Public Citizen, 2003.
 
 Brunner, Norbert, and Markus Starkl. "Financial and economic determinants of collective action: The case of wastewater management." _Environmental Impact Assessment Review_ 32, no. 1 (2012): 140–150.
 
@@ -284,15 +284,15 @@ Damania, Richard, Sébastien Desbureaux, et al. _[Quality Unknown: The Invisible
 
 World Health Organization. "[National systems to support drinking-water: sanitation and hygiene: global status report 2019: UN-Water global analysis and assessment of sanitation and drinking-water: GLAAS 2019 report](https://apps.who.int/iris/handle/10665/326444)." World Health Organization, 2019.
 
-Mitlin, Diana, Victoria A. Beard, David Satterthwaite, and Jillian Du. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Unaffordable and undrinkable: Rethinking urban water access in the Global South (PDF)](https://www.iamrenew.com/wp-content/uploads/2019/08/unaffordable-and-undrinkable.pdf)."
+Mitlin, Diana, Victoria A. Beard, David Satterthwaite, and Jillian Du. "[Unaffordable and undrinkable: Rethinking urban water access in the Global South (PDF)](https://www.iamrenew.com/wp-content/uploads/2019/08/unaffordable-and-undrinkable.pdf)."
 
 United Nations Water. "Sustainable Development Goal 6 synthesis report on water and sanitation." United Nations New York (2018).
 
-World Health Organization. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Healthy environments: why do the matter and what can we do? (PDF)](https://apps.who.int/iris/bitstream/handle/10665/325877/WHO-CED-PHE-DO-19.01-eng.pdf)" No. WHO/CED/PHE/DO/19.01. World Health Organization, 2019.
+World Health Organization. "[Healthy environments: why do the matter and what can we do? (PDF)](https://apps.who.int/iris/bitstream/handle/10665/325877/WHO-CED-PHE-DO-19.01-eng.pdf)" No. WHO/CED/PHE/DO/19.01. World Health Organization, 2019.
 
-World Health Organization. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[WHO water, sanitation and hygiene strategy 2018-2025 (PDF)](https://apps.who.int/iris/bitstream/handle/10665/274273/WHO-CED-PHE-WSH-18.03-eng.pdf)." No. WHO/CED/PHE/WSH/18.03. World Health Organization, 2018.
+World Health Organization. "[WHO water, sanitation and hygiene strategy 2018-2025 (PDF)](https://apps.who.int/iris/bitstream/handle/10665/274273/WHO-CED-PHE-WSH-18.03-eng.pdf)." No. WHO/CED/PHE/WSH/18.03. World Health Organization, 2018.
 
-WHO, UNICEF. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Safely managed drinking water-thematic report on drinking water (PDF)](https://data.unicef.org/wp-content/uploads/2017/03/safely-managed-drinking-water-JMP-2017-1.pdf)." Geneva: World Health Organisation (WHO) and the United Nations Children’s Fund (UNICEF) (2017).
+WHO, UNICEF. "[Safely managed drinking water-thematic report on drinking water (PDF)](https://data.unicef.org/wp-content/uploads/2017/03/safely-managed-drinking-water-JMP-2017-1.pdf)." Geneva: World Health Organisation (WHO) and the United Nations Children’s Fund (UNICEF) (2017).
 
 WASH, Climate, and Health
 -------------------------

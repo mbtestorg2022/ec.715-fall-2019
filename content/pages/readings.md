@@ -186,7 +186,7 @@ Bartram, Jamie, and Paul Hunter. "[Bradley Classification of disease transmissio
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[3M Petrifilm interpretation guide (PDF)](https://multimedia.3m.com/mws/media/236246O/petrifilm-ecoli-coliform-interpretation-guide.pdf)
+[3M Petrifilm interpretation guide (PDF)](https://multimedia.3m.com/mws/media/236246O/petrifilm-ecoli-coliform-interpretation-guide.pdf)
 
 Howard, Guy, Margaret E. Ince, O. Schmoll, and Michael D. Smith. _[Rapid Assessment of Drinking-Water Quality: A Handbook for Implementation](https://www.who.int/water_sanitation_health/publications/rapid_assessment/en/)_. World Health Organization, 2012. ISBN: 9789241504683.
 
@@ -268,7 +268,7 @@ Clopeck, Kate. "Ghana's water women." _Technology Review_ (November/December 201
 {{< tdopen >}}
 
 
-Parr, Jeremy, Michael Smith, and Rod Shaw. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Chlorination." Chapter 46 in _UNICEF Cholera toolkit_. UNICEF, 2017.
+Parr, Jeremy, Michael Smith, and Rod Shaw. "Chlorination." Chapter 46 in _UNICEF Cholera toolkit_. UNICEF, 2017.
 
 "[Purifying water during an emergency](https://www.doh.wa.gov/Emergencies/BePreparedBeSafe/SevereWeatherandNaturalDisasters/WaterPurification)." Washington State Department of Health.
 
